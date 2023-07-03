@@ -1081,6 +1081,34 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png",
           "titlebackground": "https://i.blogs.es/95cf07/fifa-23-ps4-ps5-xbox-pc-nintendo-switch/1366_2000.jpeg",
           "type": 1
+        },
+        {
+          "titlename": "XDefiant Open Session",
+          "titleimage": "xdef_os",
+          "titleicon": "https://cdn.upload.systems/uploads/SBuKabgD.jpg",
+          "titlebackground": "https://cdn.upload.systems/uploads/4UxhpwRF.jpg",
+          "type": 1
+        },  
+        {
+          "titlename": "Pure",
+          "titleimage": "Pure",
+          "titleicon": "http://store-images.s-microsoft.com/image/apps.56982.71138214337886029.cf245fbf-37ba-4659-949b-e9f708980113.0d650d85-7dd6-4f17-8b23-3a68b57ecce3",
+          "titlebackground": "http://store-images.s-microsoft.com/image/apps.37612.71138214337886029.cf245fbf-37ba-4659-949b-e9f708980113.b32a79d1-1af7-491e-9386-e418db4bbd6b",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row: The Third",
+          "titleimage": "srtt",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield 3",
+          "titleimage": "bf3",
+          "titleicon": "https://assets-prd.ignimgs.com/2021/12/21/battlefield-3-button-fin-1640126554216.jpg",
+          "titlebackground": "http://store-images.s-microsoft.com/image/apps.62184.69271430660548627.c90235de-725c-43d6-b777-19f7f75295cc.465ea345-cd29-4a19-8c1c-4d175dc20b49",
+          "type": 1
         }
       ]
     }
