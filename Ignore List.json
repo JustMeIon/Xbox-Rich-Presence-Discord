@@ -1,0 +1,23 @@
+{
+  "Ignore List": [
+    {
+      "titlename": "FIFA 23 [XB1]",
+      "ignore": [
+        "[XB1]"
+      ]
+    },
+    {
+      "titlename": "FIFA 22 [XB1]",
+      "ignore": [
+        "[XB1]"
+      ]
+    },
+    {
+      "titlename": "EA SPORTS FIFA 23 para Xbox One",
+      "ignore": [
+        "para Xbox One",
+        "EA SPORTS "
+      ]
+    }
+  ]
+}

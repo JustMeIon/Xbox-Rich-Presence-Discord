@@ -119,7 +119,7 @@
         {
           "titlename": "GTA IV",
           "titleimage": "GTAIV",
-          "titleicon": "http://nazuk.ml/share/Photography/Gaming/Box Art/Grand Theft Auto/IV/GTAIV.png",
+          "titleicon": "https://www.fayerwayer.com/resizer/4gdSuTwZXtyIze2E34gKL8g45x8=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OXERM3AVUBDQDLUGS7HLPGD3QM.jpg",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.59582.69304479265522151.5b8601c1-35b0-4bad-bcff-f51fb0ce43d8.89632bf2-fec7-4765-9d84-5d29d76afcb8",
           "type": 1
         },
@@ -973,7 +973,7 @@
         {
           "titlename": "Rocket League",
           "titleimage": "rocket_league",
-          "titleicon": "https://camo.githubusercontent.com/b5430e8a1bcdb553200e0eb04abae27e7bec310a0b26c284eb745e43e8ead593/68747470733a2f2f696d672e666176706e672e636f6d2f32312f31322f32312f726f636b65742d6c65616775652d766964656f2d67616d652d7073796f6e69782d6c6f676f2d646563616c2d706e672d666176706e672d7959683641334652434a4e68374a5967595a636848784169612e6a7067",
+          "titleicon": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
           "titlebackground": "https://www.pngitem.com/pimgs/m/33-334819_simbolo-do-rocket-league-hd-png-download.png",
           "type": 1
         },
@@ -1157,6 +1157,62 @@
           "titleimage": "bf3",
           "titleicon": "https://assets-prd.ignimgs.com/2021/12/21/battlefield-3-button-fin-1640126554216.jpg",
           "titlebackground": "http://store-images.s-microsoft.com/image/apps.62184.69271430660548627.c90235de-725c-43d6-b777-19f7f75295cc.465ea345-cd29-4a19-8c1c-4d175dc20b49",
+          "type": 1
+        },
+        {
+          "titlename": "LEGO Indiana Jones",
+          "titleimage": "legoij",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38358bac3cc2848d2dfb10d268e7e252.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6459257ddab7b85bf4b57845e875e4d4.png",
+          "type": 1
+        },
+        {
+          "titlename": "LEGO Batman",
+          "titleimage": "legobatman",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/1117aae5998932ffa2f9fdda31dbcd2d.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/017d234dccfcf4da102cd2293c248457.png",
+          "type": 1
+        },
+        {
+          "titlename": "DAYTONA USA",
+          "titleimage": "Daytona USA",
+          "titleicon": "https://media.vgm.io/releases/44/11744/11744-1596288334.jpg",
+          "titlebackground": "https://www.sega-portal.de/blog/wp-content/uploads/2011/10/daytona-usa-logo.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "The Texas Chain Saw Massacre",
+          "titleimage": "The Texas Chain Saw Massacre",
+          "titleicon": "https://cdn.upload.systems/uploads/JBoPjZvi.png",
+          "titlebackground": "https://cdn.upload.systems/uploads/rHA4JYxG.png",
+          "type": 1
+        },
+        {
+          "titlename": "Crackdown 2",
+          "titleimage": "crackdown2",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/02/26/crackdown2-sq-1645908598382.jpg",
+          "titlebackground": "https://i.blogs.es/72c7cc/crackdown-2/840_560.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Home",
+          "titleimage": "one_dashboard",
+          "titleicon": "one_dashboard",
+          "titlebackground": "one_dashboard",
+          "type": 1
+        },
+        {
+          "titlename": "FIFA 23 [XB1]",
+          "titleimage": "fifa23",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/authenticity/common/f23-auth-featured-16x9.jpg.adapt.crop16x9.1023w.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Red Dead Redemption",
+          "titleimage": "rdr",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38c0cbe22bf9f9a5627b511f107d0300.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7f2b2f3993942d8fffe0959b532816ea.png",
           "type": 1
         }
       ]
