@@ -3,7 +3,7 @@
     {
       "Games": [
         {
-          "titlename":  "DRAGON BALL: Sparking! ZERO",
+          "titlename": "DRAGON BALL: Sparking! ZERO",
           "titleimage": "DRAGON BALL: Sparking! ZERO",
           "titleicon": "https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg",
           "titlebackground": "https://assets-prd.ignimgs.com/2024/10/06/dragonballsparkingzero-blogroll-1728236013031.jpg",
@@ -21,7 +21,7 @@
           "titleimage": "Test Drive Unlimited 2",
           "titleicon": "https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/9767eb6137bb1e88380c96bbf5ad99bb.png",
-          "type": 1 
+          "type": 1
         },
         {
           "titlename": "Aliens vs Predator",
@@ -77,7 +77,7 @@
           "titleimage": "Crackdown",
           "titleicon": "https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/c8858a99f91ba5a272d1322d818bd44f.jpg",
-          "type": 1 
+          "type": 1
         },
         {
           "titlename": "Project Gotham Racing 4",
@@ -133,13 +133,13 @@
           "titleimage": "Persona 4 Arena Ultimax",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-ultimax-button-1642751292503.jpg",
           "titlebackground": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/persona-4-arena-ultimax-system-requirements.jpg",
-          "type": 1 
+          "type": 1
         },
         {
           "titlename": "Comic Jumper",
           "titleimage": "Comic Jumper",
           "titleicon": "https://assets-prd.ignimgs.com/2022/03/21/comicjumper-1647878725513.jpg?width=1024&crop=1%3A1%2Csmart&auto=webp",
-          "titlebackground" : "https://store-images.s-microsoft.com/image/apps.64989.66413203585280713.4b2a30eb-9814-447f-b71a-b0f96db2fbc0.5f9afb45-179a-4545-9be1-c426653bb33d?q=90&w=480&h=270",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.64989.66413203585280713.4b2a30eb-9814-447f-b71a-b0f96db2fbc0.5f9afb45-179a-4545-9be1-c426653bb33d?q=90&w=480&h=270",
           "type": 1
         },
         {
@@ -168,12 +168,12 @@
           "titleimage": "Midnight Club L.A",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/10/midnightclubla-sq-1641839670810.jpg?width=1024",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/a9b94e2e91ee1dae4106f72c3e48880e.jpg",
-          "type": 1 
+          "type": 1
         },
         {
-          "titlename" : "BlazBlue Continuum Shift",
-          "titleimage" : "BlazBlue Continuum Shift",
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024",
+          "titlename": "BlazBlue Continuum Shift",
+          "titleimage": "BlazBlue Continuum Shift",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024",
           "titlebackground": "https://i.pinimg.com/originals/3c/6b/c0/3c6bc07cb80dc24ac940a56c264e428a.jpg",
           "type": 1
         },
@@ -185,7 +185,7 @@
           "type": 1
         },
         {
-          "titlename": "Persona 4 Arena", 
+          "titlename": "Persona 4 Arena",
           "titleimage": "Perona 4 Arena",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg",
           "titlebackground": "https://images3.alphacoders.com/269/thumb-1920-269997.jpg",
@@ -269,6 +269,13 @@
           "type": 1
         },
         {
+          "titlename": "SONIC X SHADOW GENERATIONS",
+          "titleimage": "SONIC_X_SHADOW_GENERATIONS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5cf3903f2f82b49fc603774ce43d6f57.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/6eede4414a0260679581728a4d982714.png",
+          "type": 1
+        },
+        {
           "titlename": "ぷよぷよテトリス2",
           "titleimage": "Puyo_Puyo_Tetris_2_JP",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1302/ZGFxG5ChTMDDBckd6UdRLzvm.png",
@@ -327,8 +334,29 @@
         {
           "titlename": "FAR CRY6",
           "titleimage": "far_cry6",
-          "titleicon": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/159/532/products/fat-cry-61-35be3b72ba3ad0f0e216233552770910-1024-1024.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/712775bacd00b61567ca8eeb605853c8/32/256x256.png",
           "titlebackground": "https://compass-ssl.xbox.com/assets/d5/2b/d52b9b34-fd1c-42af-95ec-e42438a9bdba.jpg?n=Far-Cry-6_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Far Cry 4",
+          "titleimage": "far_cry_4",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ecc1590d3048696e95539450bd231df1.jpg",
+          "titlebackground": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5ct6etxGg4mhwtSD5o8N94/9d64139154bb23ec5d8700638c4e9b9e/far-cry-4-heroBanner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Far Cry 3",
+          "titleimage": "far_cry_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg",
+          "titlebackground": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/MnLnHV7TKYLvynbypV9Fu/03950e51dca0f7f6ad1ff738ddf48159/farcry3_cover_desktop_137015.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Severed Steel",
+          "titleimage": "Severed_Steel",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg",
+          "titlebackground": "https://images.gog-statics.com/3a118f17c94b812bccc04752009f836944ed60903a486af25966eeb55a4e91b9.jpg",
           "type": 1
         },
         {
@@ -376,7 +404,7 @@
         {
           "titlename": "Minecraft: Story Mode - Season Two",
           "titleimage": "mcsm2",
-          "titleicon": "https://mspoweruser.com/wp-content/uploads/2017/07/Minecraft-Story-Mode-Season-Two-Season-Pass.jpg",
+          "titleicon": "https://assets1.ignimgs.com/2017/08/03/minecraft-story-mode-season-2---button-1501797034951.jpg?width=1024",
           "titlebackground": "https://wallpapercave.com/wp/wp5073723.jpg",
           "type": 1
         },
@@ -413,7 +441,7 @@
         {
           "titlename": "Forza Horizon 5",
           "titleimage": "forza_horizon_5",
-          "titleicon": "https://heyure.com/wp-content/uploads/2021/10/forza-horizon-5-button-fin-1629830068379-1024x1024.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/981ee11c08e460dc540242ee105b5ced/32/512x512.png",
           "titlebackground": "https://guiltybit.com/wp-content/uploads/2021/11/analisis-de-Forza-Horizon-5.webp",
           "type": 1
         },
@@ -497,7 +525,7 @@
         {
           "titlename": "Blu-ray Player",
           "titleimage": "Blu_ray_Player",
-          "titleicon": "https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg",
+          "titleicon": "https://seeklogo.com/images/B/Blu-ray_Disc-logo-7617B9FC8E-seeklogo.com.png",
           "titlebackground": "https://media.wired.com/photos/5c1064d06b57cd18ab64c632/master/pass/blu-ray-183322915.jpg",
           "type": 3
         },
@@ -537,11 +565,32 @@
           "type": 3
         },
         {
+          "titlename": "VLC UWP",
+          "titleimage": "VLC_UWP",
+          "titleicon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxiJK_HEPrjdesdyeQIKBd8CoiFrgY4r.ZkWqv.BA5Ada9hOspX.JXdTZc317jZzDuPJwizLoQfyhPuJ4J9LdU9k-&format=source",
+          "titlebackground": "https://www.prajwaldesai.com/wp-content/uploads/2017/06/vlc_img.png",
+          "type": 3
+        },
+        {
           "titlename": "Microsoft Edge",
           "titleimage": "Microsoft_Edge",
           "titleicon": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png",
           "titlebackground": "https://www.lifewire.com/thmb/NSE8G8rmX6Yxf3sxckcXhW7puVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/001-what-is-microsoft-edge-4151828-b50ba4a178d54bb287c62419dd80c6d7.jpg",
           "type": 3
+        },
+        {
+          "titlename": "VALORANT",
+          "titleimage": "VALORANT",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/af0aa72953e2c9642d7f8e305d917a52.png",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/YHdtAs36hSJUL56Lq2nxFi-1200-80.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Genshin Impact",
+          "titleimage": "Genshin_Impact",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/1a458abb1c2b417a17546fc2561b5a6fdb4ca61a8fba1695.jpg",
+          "type": 1
         },
         {
           "titlename": "COD: Black Ops II",
@@ -593,6 +642,13 @@
           "type": 3
         },
         {
+          "titlename": "PDP Control Hub",
+          "titleimage": "PDP_Control_Hub",
+          "titleicon": "https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.21661.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.4361a4a1-ec55-4b07-98f8-c9640954808d",
+          "type": 3
+        },
+        {
           "titlename": "COD: Black Ops III",
           "titleimage": "cod_bo3",
           "titleicon": "https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg",
@@ -616,7 +672,7 @@
         {
           "titlename": "Dying Light",
           "titleimage": "dying_light",
-          "titleicon": "https://cdn.discordapp.com/attachments/930599143041286166/953067144659210240/Discord_DL_Icon_copy_1024x1024.png",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/c55ead078947051a856b1f3beb85f748/32/256x256.png",
           "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png",
           "type": 1
         },
@@ -677,10 +733,17 @@
           "type": 1
         },
         {
-          "titlename": "Fall Guys: Ultimate Knockout",
-          "titleimage": "fallguys",
+          "titlename": "Fall Guys",
+          "titleimage": "Fall_Guys",
           "titleicon": "https://cdn2.unrealengine.com/s10-logo-cropped-769x740-527f1dff6d3b.png?resize=1&w=920&quality=high[18:18]",
           "titlebackground": "https://sm.ign.com/ign_es/gallery/f/fall-guys-/fall-guys-season-1-free-for-all-update_qyh9.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Stumble Guys",
+          "titleimage": "Stumble_Guys",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eae7e6b10447faa61ded3859297594d5.png",
+          "titlebackground": "https://live-assets.web.stumbleguys.com/cms/website_309b26b7bc.webp",
           "type": 1
         },
         {
@@ -691,10 +754,24 @@
           "type": 1
         },
         {
+          "titlename": "Battlefield Bad Company 2",
+          "titleimage": "btf_badcompany_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/535930dfb6b351001869d2cf9ee07833.jpg",
+          "titlebackground": "https://cdn.myportfolio.com/7fda6eec3ddc616d5a8da0e23728fb49/36930112461d4e89dc0d2d6a_rw_1920.jpg?h=09b0bb24852f6494e6fa12d00cd0dd1d",
+          "type": 1
+        },
+        {
           "titlename": "Skyrim",
           "titleimage": "skyrim",
-          "titleicon": "https://img.wallscloud.net/converted/2563471846-the-elder-scrolls-v-skyrim-gQkr-1024x1024-MM-100.jpg",
+          "titleicon": "https://freesvg.org/img/skyrim.png",
           "titlebackground": "https://c.wallhere.com/photos/f9/be/1366x768_px_The_Elder_Scrolls_V_Skyrim_video_games-715618.jpg!d",
+          "type": 1
+        },
+        {
+          "titlename": "Conker: Live and Reloaded",
+          "titleimage": "Conker_Live_and_Reloaded",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png",
+          "titlebackground": "https://retroages.com/wp-content/uploads/2021/06/conker-live-reloaded.jpg",
           "type": 1
         },
         {
@@ -707,14 +784,14 @@
         {
           "titlename": "Forza Motorsport 3",
           "titleimage": "forza_motorsport3",
-          "titleicon": "https://e.snmc.io/lk/o/x/b2eb0fd36d61d3054b464de218098314/6678598",
+          "titleicon": "https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg",
           "titlebackground": "https://img4.goodfon.com/original/2560x1440/e/59/audi-r8-forza-motorsport-3-game.jpg",
           "type": 1
         },
         {
           "titlename": "Forza Motorsport 4",
           "titleimage": "forza_motorsport4",
-          "titleicon": "https://e.snmc.io/lk/o/x/b2eb0fd36d61d3054b464de218098314/6678598",
+          "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/bc060de03aa94c7edf5e6b4f1755c1f0.png",
           "titlebackground": "https://r4.wallpaperflare.com/wallpaper/160/827/592/forza-motorsport-4-wallpaper-b950b8dde12a0debf667381f6001863d.jpg",
           "type": 1
         },
@@ -854,21 +931,21 @@
         {
           "titlename": "Kinect Adventures!",
           "titleimage": "kinect_adventures",
-          "titleicon": "https://tinypic.host/images/2022/10/01/kinectadv.png",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg",
           "titlebackground": "https://media.rawg.io/media/games/d76/d76a211072aed4e50a8d081f234f3b5a.jpg",
           "type": 1
         },
         {
           "titlename": "Kinect Sports",
           "titleimage": "ks_season1",
-          "titleicon": "https://tinypic.host/images/2022/10/01/kinectsports.png",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg",
           "titlebackground": "https://www.mobygames.com/images/promo/original/1478557560-1581798436.jpg",
           "type": 1
         },
         {
           "titlename": "Kinect Sports: Season Two",
           "titleimage": "ks_season2",
-          "titleicon": "https://tinypic.host/images/2022/10/01/kinectsports.png",
+          "titleicon": "https://m.media-amazon.com/images/I/71ZleHj2UKL.jpg",
           "titlebackground": "https://www.mobygames.com/images/promo/original/1478557560-1581798436.jpg",
           "type": 1
         },
@@ -880,7 +957,7 @@
           "type": 1
         },
         {
-          "titlename": "Terraria – Xbox 360 Edition",
+          "titlename": "Terraria \u2013 Xbox 360 Edition",
           "titleimage": "terraria_x360",
           "titleicon": "https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg",
           "titlebackground": "https://i.redd.it/ej45mxbs1uq61.png",
@@ -1008,21 +1085,21 @@
         {
           "titlename": "ZOE HD",
           "titleimage": "zoehd",
-          "titleicon": "https://tinypic.host/images/2023/01/18/zoehd.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/8d297a658bd8918ca2428789005950df/32/256x256.png",
           "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/83cdcec08fbf90370fcf53bdd56604ff.jpg",
           "type": 1
         },
         {
           "titlename": "Lost Odyssey",
           "titleimage": "lost_odyssey",
-          "titleicon": "https://tinypic.host/images/2023/01/18/lo.jpg",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/lost-odyssey-button-crop-1641596251636.jpg",
           "titlebackground": "https://i0.wp.com/www.badtaste.it/videogiochi/wp-content/uploads/sites/2/2016/12/lost-odyssey_gdfz.jpg",
           "type": 1
         },
         {
           "titlename": "Blue Dragon",
           "titleimage": "blue_dragon",
-          "titleicon": "https://tinypic.host/images/2023/01/18/bdrgn.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/96ecbfadac55a39b8909822f91399f00/32/64x64.png",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.55545.65457035095819016.56f55216-1bb9-40aa-8796-068cf3075fc1.4c2daefb-fbf6-4b90-b392-bf8ecc39a92e",
           "type": 1
         },
