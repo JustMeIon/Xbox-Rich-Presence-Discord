@@ -80,10 +80,66 @@
           "type": 1
         },
         {
+          "titlename": "U. MARVEL VS. CAPCOM 3",
+          "titleimage": "UMvC3_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d6a8c39c569b462f6b7168ef5a470ce9.png",
+          "titlebackground": "https://cdn.prod.website-files.com/657866d52e4cd6019b7f7b00/657866d52e4cd6019b7f81c7_UMVC3%20Featured%20Image.png",
+          "type": 1
+        },
+        {
+          "titlename": "ULTIMATE MARVEL VS. CAPCOM 3",
+          "titleimage": "UMvC3_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d6a8c39c569b462f6b7168ef5a470ce9.png",
+          "titlebackground": "https://cdn.prod.website-files.com/657866d52e4cd6019b7f7b00/657866d52e4cd6019b7f81c7_UMVC3%20Featured%20Image.png",
+          "type": 1
+        },
+        {
+          "titlename": "MARVEL VS. CAPCOM 3",
+          "titleimage": "MvC3_vanilla",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/07/09/marvelvcapcom3-1657386132259.jpg",
+          "titlebackground": "https://cdn.prod.website-files.com/657866d52e4cd6019b7f7b00/657866d52e4cd6019b7f81c7_UMVC3%20Featured%20Image.png",
+          "type": 1
+        },
+        {
+          "titlename": "MARVEL VS. CAPCOM: INFINITE",
+          "titleimage": "MvCI",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a62cc19e74a56d39bc11a79c42fb0b77.png",
+          "titlebackground": "https://images.launchbox-app.com/0d2bc831-009b-4d76-aca1-3ef07952b7dc.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SOULCALIBUR II HD ONLINE",
+          "titleimage": "SCII_HD_OL",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/402e4532ecca189289e1290d7e2848fa.png",
+          "titlebackground": "https://assetsio.gnwcdn.com/138512649809.jpg?width=1600&height=900&fit=crop&quality=100&format=png",
+          "type": 1
+        },
+        {
+          "titlename": "SOULCALIBUR V",
+          "titleimage": "SCV",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bf2ebef98954dfa2dce40f67adfbb86a.png",
+          "titlebackground": "https://assets-prd.ignimgs.com/2023/06/12/soul-calibur-5-1686538708745.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Crackdown",
           "titleimage": "Crackdown",
           "titleicon": "https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/c8858a99f91ba5a272d1322d818bd44f.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Fear the Spotlight",
+          "titleimage": "Fear_the_Spotlight",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d2389f8143052071ad0be3167e9ab534.png",
+          "titlebackground": "https://imageio.forbes.com/specials-images/imageserve/6718044ec2585f9f03bc5fca/0x0.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Crow Country",
+          "titleimage": "Crow_Country",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/be3fee4b6e8d8032bc7b4268a4bc0900.png",
+          "titlebackground": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/crow-country-logo-banner.jpg",
           "type": 1
         },
         {
@@ -199,6 +255,27 @@
           "type": 1
         },
         {
+          "titlename": "Silent Hill Homecoming",
+          "titleimage": "Silent_Hill_Homecoming",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/591e4177925d047ddd7fcc018f825a56.jpg",
+          "titlebackground": "https://games.kikizo.com/media2008/silent-hill-homecoming-interview/01.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Silent Hill: Downpour",
+          "titleimage": "Silent_Hill_Downpour",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/16c2f163b036939d4178a21ade6283c4.png",
+          "titlebackground": "https://mollielpatterson.com/wp-content/uploads/2017/12/Silent.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Silent Hill: HD Collection",
+          "titleimage": "Silent_Hill_HD_Collection",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bf881d4611a2941ecbf549a41e5a8905.png",
+          "titlebackground": "https://img.gg.deals/e1/cb/139be1136c8fae349319b8efb552f2c1969b_1232xr706_Q100.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Raskulls",
           "titleimage": "Raskulls",
           "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg",
@@ -222,7 +299,7 @@
         {
           "titlename": "Assassin's Creed Brotherhood",
           "titleimage": "Assassins_Creed_Brotherhood",
-          "titleicon": "https://cdn2.steamgriddb.com/icon/56535b943d33605c7231405ac564d698/32/256x256.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/be1b8fbe91e027def4ace7e748e424b3.png",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/7a25ce3a3049c1ee6641f34a98ed44e0.jpg",
           "type": 1
         },
@@ -280,6 +357,34 @@
           "titleimage": "SONIC_X_SHADOW_GENERATIONS",
           "titleicon": "https://cdn2.steamgriddb.com/grid/5cf3903f2f82b49fc603774ce43d6f57.png",
           "titlebackground": "https://cdn2.steamgriddb.com/hero/6eede4414a0260679581728a4d982714.png",
+          "type": 1
+        },
+        {
+          "titlename": "Bayonetta",
+          "titleimage": "Bayonetta_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/baf6f3d5fa8ec43ae06f7498b41e02d7.jpg",
+          "titlebackground": "https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/Bayonetta_double_wallpaper_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "BAYONETTA",
+          "titleimage": "Bayonetta_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bba08d79e25596c72ca3de90e3d576a6.jpg",
+          "titlebackground": "https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/Bayonetta_double_wallpaper_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Vanquish",
+          "titleimage": "Vanquish_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/66bc488f92ab3ae5b3293136d48572e4.jpg",
+          "titlebackground": "https://images6.alphacoders.com/522/522940.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "VANQUISH",
+          "titleimage": "Vanquish_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/497a852eb89c112d5279463e92e391ac.png",
+          "titlebackground": "https://images6.alphacoders.com/522/522940.jpg",
           "type": 1
         },
         {
@@ -518,7 +623,7 @@
         {
           "titlename": "YouTube",
           "titleimage": "youtube_logo",
-          "titleicon": "https://upload.anarchyisland.gg/r/Youtube%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Youtube%20Icon.png?compress=false",
           "titlebackground": "https://images.hdqwalls.com/download/red-inside-grey-design-8k-w2-1920x1080.jpg",
           "type": 2
         },
@@ -532,7 +637,7 @@
         {
           "titlename": "Blu-ray Player",
           "titleimage": "Blu_ray_Player",
-          "titleicon": "https://seeklogo.com/images/B/Blu-ray_Disc-logo-7617B9FC8E-seeklogo.com.png",
+          "titleicon": "https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg",
           "titlebackground": "https://media.wired.com/photos/5c1064d06b57cd18ab64c632/master/pass/blu-ray-183322915.jpg",
           "type": 3
         },
@@ -597,6 +702,13 @@
           "titleimage": "Genshin_Impact",
           "titleicon": "https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/1a458abb1c2b417a17546fc2561b5a6fdb4ca61a8fba1695.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Zenless Zone Zero",
+          "titleimage": "Zenless_Zone_Zero",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9a312e8ee540ea13780981af9ee65646.png",
+          "titlebackground": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/07/zzz-key-visual-hero.jpg",
           "type": 1
         },
         {
@@ -722,7 +834,7 @@
           "titlename": "INSIDE",
           "titleimage": "INSIDE",
           "titleicon": "https://cdn2.steamgriddb.com/grid/51eac99551f4fa89da93f217a521f007.jpg",
-          "titlebackground": "data:image/jpeg;base64,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",
+          "titlebackground": "https://images4.alphacoders.com/957/957647.png",
           "type": 1
         },
         {
@@ -735,7 +847,7 @@
         {
           "titlename": "Dying Light",
           "titleimage": "dying_light",
-          "titleicon": "https://cdn2.steamgriddb.com/icon/c55ead078947051a856b1f3beb85f748/32/256x256.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fc7fc726ca255b6d2e10b76071e51972.png",
           "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png",
           "type": 1
         },
@@ -978,6 +1090,13 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty 4",
+          "titleimage": "cod4_360",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg",
+          "titlebackground": "https://pg-uploads.wpcdn.pl/2007/12/Modern-Warfare.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Modern Warfare 2",
           "titleimage": "cod_mw2_360",
           "titleicon": "https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png",
@@ -989,6 +1108,41 @@
           "titleimage": "cod_mw3",
           "titleicon": "https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg",
           "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DanceDanceRevolution",
+          "titleimage": "DDR_2010",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/71Gm35VbN7L.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DDR Universe",
+          "titleimage": "DDR_Universe_1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png",
+          "titlebackground": "https://tcrf.net/images/e/ed/DDRuniverse-title.png",
+          "type": 1
+        },
+        {
+          "titlename": "DDR Universe 2",
+          "titleimage": "DDR_Universe_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png",
+          "titlebackground": "https://i.ytimg.com/vi/SVlZHbOLh0w/maxresdefault.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DDR Universe 3",
+          "titleimage": "DDR_Universe_3",
+          "titleicon": "https://www.giantbomb.com/a/uploads/square_small/8/87790/2280571-box_ddru3.png",
+          "titlebackground": "https://img.gamertagnation.com/gameimages/backgrounds/494.png",
+          "type": 1
+        },
+        {
+          "titlename": "DanceMasters/Evolution",
+          "titleimage": "Dance_Masters_Evolution",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/16/dancemasters-1647405437944.jpg",
+          "titlebackground": "https://assets2.ignimgs.com/2010/08/27/dance-masters-20100827103429402-3297666.jpg",
           "type": 1
         },
         {
@@ -1042,9 +1196,37 @@
         },
         {
           "titlename": "Dead Space 3",
-          "titleimage": "dead_space3",
+          "titleimage": "dead_space_3_Xbox_360",
           "titleicon": "https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg",
           "titlebackground": "https://images5.alphacoders.com/371/371382.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space 2",
+          "titleimage": "dead_space_2_Xbox_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/db9479550af49e4214af583bf0816551.png",
+          "titlebackground": "https://i0.wp.com/waytoomany.games/wp-content/uploads/2021/01/dead-space-2-wallpaper-full-hd-1080p-184991.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space (2008)",
+          "titleimage": "dead_space_2008_Xbox_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eeb96dcdd636b95cd52a322e7c9f48fa.png",
+          "titlebackground": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/11/ds1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space",
+          "titleimage": "dead_space_Remake",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f01c34449487c0bd1ea4a8625fffa09c.jpg",
+          "titlebackground": "https://i0.wp.com/xboxera.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-010335.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "South of Midnight",
+          "titleimage": "South_of_Midnight",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e443cc2708fc151dbf3763a8157336b.jpg",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/2024/06/HERO-1de22a582ec70ff085c8.jpg",
           "type": 1
         },
         {
@@ -1087,6 +1269,13 @@
           "titleimage": "rainbow_sixsiege",
           "titleicon": "https://sm.ign.com/t/ign_es/game/r/rainbow-si/rainbow-six-siege_d2b2.1024.jpg",
           "titlebackground": "https://images7.alphacoders.com/588/588460.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Tom Clancy's Rainbow Six Siege X",
+          "titleimage": "rainbow_six_siege_X",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/751e6221ef6d33dfe30b89e52ca12fb4.png",
+          "titlebackground": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1lKKKfKHD5f84ViM2NHBOJ/f54c2f0dfd5ae10eb3d6c2e965fa732d/r6s-x-free-access.jpg",
           "type": 1
         },
         {
@@ -1279,6 +1468,27 @@
           "type": 1
         },
         {
+          "titlename": "MONSTER HUNTER: WORLD",
+          "titleimage": "Monster_Hunter_World",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ad0c17a89c56731630582f6a2b95c044.png",
+          "titlebackground": "https://monstervine.com/wp-content/uploads/2019/09/Monster-Hunter-World_-Iceborne_20190908102727.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Monster Hunter Wilds",
+          "titleimage": "Monster_Hunter_Wilds",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b3b029333d503e2239efc9dfe164de78.png",
+          "titlebackground": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/monster-hunter-wilds-beta-2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Monster Hunter Wilds Beta test",
+          "titleimage": "Monster_Hunter_Wilds_Beta",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1506/b0a0c6242eac82f717e7bfb36b225e747112f19dfc187f00.png",
+          "titlebackground": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/monster-hunter-wilds-beta-2.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Doom Eternal",
           "titleimage": "doom_eternal",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png",
@@ -1339,6 +1549,27 @@
           "titleimage": "DOA4_360",
           "titleicon": "https://assets-prd.ignimgs.com/2022/11/25/doa4-1669406347926.jpg",
           "titlebackground": "https://thehande.files.wordpress.com/2019/04/doa4-01.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead or Alive 5",
+          "titleimage": "doa5_Vanilla",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9bf4282eb2d98c22bed8683ee6e591d0.jpg",
+          "titlebackground": "https://wallpapercave.com/wp/wp1971233.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOA5 Ultimate",
+          "titleimage": "DOA5_Ultimate",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f07d6785a6930875460c64a46ff41ced.jpg",
+          "titlebackground": "https://draculascave.co/wp-content/uploads/2013/09/title31.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOA5 Last Round",
+          "titleimage": "DOA5_LR_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8c133ffc5b43bd169de84a85e0b551ee.png",
+          "titlebackground": "https://img.opencritic.com/game/108/o/spwdcDOs.jpg",
           "type": 1
         },
         {
@@ -1447,10 +1678,31 @@
           "type": 1
         },
         {
+          "titlename": "STREETFIGHTER X TEKKEN",
+          "titleimage": "SFxT",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/68149192ab2ce5cd375a6e0e0c06f2dc.png",
+          "titlebackground": "https://images4.alphacoders.com/200/200016.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Street Fighter 6",
           "titleimage": "SF6",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1408/l3bg7nmfPpPzam5jOVlaUFww.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SF3: Online Edition",
+          "titleimage": "SF3",
+          "titleicon": "https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg",
+          "titlebackground": "https://assets2.ignimgs.com/2011/06/06/street-fighter-iii-third-strike-online-edition-20110606025223126-3465365.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Darkstalkers Ressurection",
+          "titleimage": "DSR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ff9966923417df057cc0cbcdda667d71.png",
+          "titlebackground": "https://assetsio.gnwcdn.com/136308059129.jpg",
           "type": 1
         },
         {
@@ -1493,6 +1745,41 @@
           "titleimage": "Sonic_Unleashed",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg",
           "titlebackground": "https://m.media-amazon.com/images/M/MV5BOGJjZGVjMDktYTdlNC00YWUxLTllMzktYzE5N2E5OGU3OWVjXkEyXkFqcGdeQXVyNjcyNzkwMTc@._V1_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SONIC THE HEDGEHOG",
+          "titleimage": "SONIC_THE_HEDGEHOG_2006",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b685a99bc37fc3461bff5d878f8a1fe2.png",
+          "titlebackground": "https://images.gamebanana.com/img/ss/concepts/65dc355cee6b5.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SONIC FREE RIDERS",
+          "titleimage": "SONIC_FREE_RIDERS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9225fcf7648e0bc72c9fbc499e09938b.png",
+          "titlebackground": "https://images.timeextension.com/12b1b2e7a61a2/sonic-free-riders.large.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SEGA Superstars Tennis",
+          "titleimage": "SONIC_Superstars_Tennis",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/59336df88e79656b6003bdbe2da2bf1e.png",
+          "titlebackground": "https://static.wikia.nocookie.net/jetsetradio/images/9/9c/Sega_Tennis_Wallpaper.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "KOF98UM",
+          "titleimage": "KoF_98_UM",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f0f3c0a2e88baabec7eee2ac431aa682.png",
+          "titlebackground": "https://live.staticflickr.com/2800/4129529051_08d20719af_b.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "KOF2002UM",
+          "titleimage": "KoF_2002_UM",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6d9dc06779a789a78ff9f44168213313.jpg",
+          "titlebackground": "https://images.launchbox-app.com/6a4929e2-19b2-420a-a5c2-f06668d8bcfa.jpg",
           "type": 1
         },
         {
@@ -1610,14 +1897,14 @@
         {
           "titlename": "Rust",
           "titleimage": "Rust",
-          "titleicon": "https://upload.anarchyisland.gg/r/Rust%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Rust%20Icon.png?compress=false",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1609/wBzFi5s20C1I7o3A5iEFWNuI.jpg",
           "type": 1
         },
         {
           "titlename": "Rust Console Edition - Public Test Branch",
           "titleimage": "Rust_Console_Edition_PTB",
-          "titleicon": "https://upload.anarchyisland.gg/r/Rust%20PTB%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Rust%20PTB%20Icon.png?compress=false",
           "titlebackground": "https://images.squarespace-cdn.com/content/v1/602d246245658135031e4b2a/1616447818146-YFIXRZ2D4BG1RPDSY1P8/RUST_GroupShot_Building.png",
           "type": 1
         },
@@ -1631,56 +1918,56 @@
         {
           "titlename": "Dead by Daylight: Special Edition",
           "titleimage": "Dead_by_Daylight",
-          "titleicon": "https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/DBD%20Icon.png?compress=false",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/GxoUQHbrinQCjkNmBqwgr7Ij.jpg",
           "type": 1
         },
         {
           "titlename": "Battlefield 2042 Xbox Series X|S",
           "titleimage": "Battlefield_2042",
-          "titleicon": "https://upload.anarchyisland.gg/r/Battlefield%202042%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Battlefield%202042%20Icon.png?compress=false",
           "titlebackground": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/images/2021/04/k-1920x1080-featured-image.jpg.adapt.crop191x100.1200w.jpg",
           "type": 1
         },
         {
           "titlename": "Overwatch 2",
           "titleimage": "Overwatch_2",
-          "titleicon": "https://upload.anarchyisland.gg/r/Overwatch%202%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Overwatch%202%20Icon.png?compress=false",
           "titlebackground": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2022/10/OW2-be9287b234afbe7898ac.jpg",
           "type": 1
         },
         {
           "titlename": "Sea of Thieves 2023 Edition",
           "titleimage": "Sea_of_Thieves",
-          "titleicon": "https://upload.anarchyisland.gg/r/SoT%20Icon.jpeg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/SoT%20Background.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/SoT%20Icon.jpeg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/SoT%20Background.png?compress=false",
           "type": 1
         },
         {
           "titlename": "Redfall",
           "titleimage": "redfall",
-          "titleicon": "https://upload.anarchyisland.gg/r/Redfall%20Icon.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Redfall%20Icon.jpg?compress=false",
           "titlebackground": "https://twistedvoxel.com/wp-content/uploads/2022/12/Redfall.jpg",
           "type": 1
         },
         {
           "titlename": "Red Dead Redemption 2",
           "titleimage": "red_dead_redemption_2",
-          "titleicon": "https://upload.anarchyisland.gg/r/RDR%202%20Icon.jpeg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/RDR%202%20Icon.jpeg?compress=false",
           "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png?w=1920",
           "type": 1
         },
         {
           "titlename": "Insurgency: Sandstorm",
           "titleimage": "insurgency_sandstorm",
-          "titleicon": "https://upload.anarchyisland.gg/r/Insurgency%20Sandstorm%20Icon.png?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/Insurgency%20Sandstorm%20Background.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Insurgency%20Sandstorm%20Icon.png?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/Insurgency%20Sandstorm%20Background.jpg?compress=false",
           "type": 1
         },
         {
           "titlename": "Atomic Heart",
           "titleimage": "atomic_heart",
-          "titleicon": "https://upload.anarchyisland.gg/r/Atomic%20Heart%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Atomic%20Heart%20Icon.png?compress=false",
           "titlebackground": "https://assets.xboxservices.com/assets/0b/5b/0b5bcbae-c4cb-40e7-a539-f0d603b65c6a.jpg?n=Atomic-Heart_GLP-Page-Hero-1084_1920x1080.jpg",
           "type": 1
         },
@@ -1708,8 +1995,8 @@
         {
           "titlename": "Friday the 13th: The Game",
           "titleimage": "friday_the_13th_the_game",
-          "titleicon": "https://upload.anarchyisland.gg/r/Friday%20the%2013th%20The%20Game%20Icon.png?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/Friday%20the%2013th%20The%20Game%20Background.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Friday%20the%2013th%20The%20Game%20Icon.png?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/Friday%20the%2013th%20The%20Game%20Background.jpg?compress=false",
           "type": 1
         },
         {
@@ -1744,7 +2031,7 @@
           "titlename": "XDefiant Open Session",
           "titleimage": "xdef_os",
           "titleicon": "https://cdn2.steamgriddb.com/grid/d153407a197a930109d7f1e2a5331a8d.png",
-          "titlebackground": "https://upload.anarchyisland.gg/r/XDefiant%20Background.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/XDefiant%20Background.jpg?compress=false",
           "type": 1
         },
         {
@@ -1799,15 +2086,15 @@
         {
           "titlename": "The Texas Chain Saw Massacre",
           "titleimage": "The Texas Chain Saw Massacre",
-          "titleicon": "https://upload.anarchyisland.gg/r/TCM%20Icon.png?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/TCM%20Background.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/TCM%20Icon.png?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/TCM%20Background.png?compress=false",
           "type": 1
         },
         {
           "titlename": "The Texas Chain Saw Massacre - PC Edition",
           "titleimage": "The Texas Chain Saw Massacre - PC Edition",
-          "titleicon": "https://upload.anarchyisland.gg/r/LqzUi1.png?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/UQVd8Y.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/UQVd8Y.png?compress=false",
           "type": 1
         },
         {
@@ -1841,15 +2128,15 @@
         {
           "titlename": "Starfield",
           "titleimage": "starfield",
-          "titleicon": "https://upload.anarchyisland.gg/r/Starfield%20Icon.jpg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/Starfield%20Background.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Starfield%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/Starfield%20Background.png?compress=false",
           "type": 1
         },
         {
           "titlename": "Payday 3",
           "titleimage": "payday_3",
-          "titleicon": "https://upload.anarchyisland.gg/r/Payday3%20Icon.jpg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/Payday3%20Background.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Payday3%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/Payday3%20Background.jpg?compress=false",
           "type": 1
         },
         {
@@ -1878,6 +2165,41 @@
           "titleimage": "doom",
           "titleicon": "https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg",
           "titlebackground": "https://i.pinimg.com/originals/28/a5/b0/28a5b0a9436536a8945416a5ad503b36.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM: The Dark Ages",
+          "titleimage": "doom_the_dark_ages",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e2fc8e236c46593be72c66ef8112bbc0.png",
+          "titlebackground": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/doom-the-dark-ages-01-doomslayer.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM II",
+          "titleimage": "doom_II",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b6857486cf71710a307c74f888b37ab6.png",
+          "titlebackground": "https://www.dreadxp.com/wp-content/uploads/2020/01/Doom-2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM 3",
+          "titleimage": "doom_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e917c582a4c4b196c43e80feb52c05ac.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0520/7DC8oEH3aImTHSJzcFmEaYA1.png",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM 3 BFG Edition",
+          "titleimage": "doom_3_BFG_Edition",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0d185edda159e971fac84cbc8ff26cc7.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2804/vlzF1qEjYncKVuRu2TfzlPq7.png",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM + DOOM II",
+          "titleimage": "DOOM_plus_DOOM_II",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ea25dc16884c274e677a006c93b13994.jpg",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_dccbd8eb6b389bf6d943485461265cf1b6aa52f7.1920x1080.jpg",
           "type": 1
         },
         {
@@ -1918,8 +2240,8 @@
         {
           "titlename": "War Thunder",
           "titleimage": "war_thunder",
-          "titleicon": "https://upload.anarchyisland.gg/r/War%20Thunder%20Icon.jpg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/War%20Thunder%20Background.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/War%20Thunder%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/War%20Thunder%20Background.jpg?compress=false",
           "type": 1
         },
         {
@@ -1946,28 +2268,28 @@
         {
           "titlename": "Train Sim World 4",
           "titleimage": "TSW4",
-          "titleicon": "https://upload.anarchyisland.gg/r/TSW4%20Icon.jpg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/TSW4%20Banner.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/TSW4%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/TSW4%20Banner.jpg?compress=false",
           "type": 1
         },
         {
           "titlename": "Dead Island 2",
           "titleimage": "deadisland2",
-          "titleicon": "https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/Dead%20Island%202%20Background.jpg?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Dead%20Island%202%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/Dead%20Island%202%20Background.jpg?compress=false",
           "type": 1
         },
         {
           "titlename": "Palworld (Game Preview)",
           "titleimage": "Palworld",
-          "titleicon": "https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false",
-          "titlebackground": "https://upload.anarchyisland.gg/r/Palworld%20Background.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Palworld%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/raw/Palworld%20Background.png?compress=false",
           "type": 1
         },
         {
           "titlename": "Dead by Daylight",
           "titleimage": "Dead_by_Daylight",
-          "titleicon": "https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/DBD%20Icon.png?compress=false",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/GxoUQHbrinQCjkNmBqwgr7Ij.jpg",
           "type": 1
         },
@@ -1983,6 +2305,146 @@
           "titleimage": "Sonic_Adventure_2",
           "titleicon": "https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/5aa3405a3f865c10f420a4a7b55cbff3.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "L.A. Noire",
+          "titleimage": "la_noire",
+          "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA09084_00/Y6dRYaJHlOw6c2dMvrNY36eakbFsR8JI.png",
+          "titlebackground": "https://www.hollywoodreporter.com/wp-content/uploads/2021/04/lanoire_phelpsSmoke_2560x1600-copy-1617658981.jpg?w=1296&h=730&crop=1",
+          "type": 1
+        },
+        {
+          "titlename": "Need for Speed Hot Pursuit",
+          "titleimage": "Need for Speed Hot Pursuit",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7984e391f2529b3790a3801c0591897f.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/grid/7bca3344cf253fcec84086158dbacad7.png",
+          "type": 1
+        },
+        {
+          "titlename": "Need for Speed Rivals",
+          "titleimage": "Need for Speed Rivals",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2231c93437ad10b18353e3c70e895cd4.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/grid/9afbe998374ca7326d35d84180786096.png",
+          "type": 1
+        },
+        {
+          "titlename": "NFS Most Wanted",
+          "titleimage": "NFS Most Wanted",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2b56ecffc94803423f5dfc399101a180.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/need-for-speed-most-wanted-2005-key-art.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Need for Speed Carbon",
+          "titleimage": "Need for Speed Carbon",
+          "titleicon": "https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-square_1.jpg",
+          "titlebackground": "https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-hero_1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NFS ProStreet",
+          "titleimage": "NFS ProStreet",
+          "titleicon": "https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-square.jpg",
+          "titlebackground": "https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-hero.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NEED FOR SPEED THE RUN",
+          "titleimage": "NEED FOR SPEED THE RUN",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c62db977c9ae8c8bad323bc56353a3ed.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/eacom/en-us/migrated-images/2017/06/the-run-nfs-therun-hero-vertical.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Burnout Paradise",
+          "titleimage": "Burnout Paradise",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/09eae287126137014865d462cb820d98.jpg",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/burnout-paradise-keyart.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Burnout Paradise Remastered",
+          "titleimage": "Burnout Paradise Remastered",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/ea/burnout-paradise-remastered/images/2018/02/bpr-featured-image-16-9.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Celeste",
+          "titleimage": "Celeste",
+          "titleicon": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png",
+          "titlebackground": "https://i.redd.it/all-most-of-the-backgrounds-in-celeste-edited-together-v0-0jzdpvth2uka1.jpg?width=792&format=pjpg&auto=webp&s=8998957827df6fbe7a6efc9229306cfd53a76b4a",
+          "type": 1
+        },
+        {
+          "titlename": "American Wasteland",
+          "titleimage": "Tony Hawk's American Wasteland",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c15cef593fc97feff93d2a031d2a9ad4.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/03c6b06952c750899bb03d998e631860.png",
+          "type": 1
+        },
+        {
+          "titlename": "Tony Hawk's PS HD",
+          "titleimage": "Tony Hawk's Pro Skater HD",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a61c36dfa0efd6df3a443c25d1f5927f.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/38913e1d6a7b94cb0f55994f679f5956.png",
+          "type": 1
+        },
+        {
+          "titlename": "Tony Hawk's Pro Skater 5",
+          "titleimage": "Tony Hawk's Pro Skater 5",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/2b5d9ed398db1dee1d00214aa5a41ef0.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/1aad6b93bca4217b9889a246c3cb7a30.png",
+          "type": 1
+        },
+        {
+          "titlename": "TH Proving Ground",
+          "titleimage": "Tony Hawk's Proving Ground",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/0d124848a0ea943f34d3a85bf3599943/24/1024x1024.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/38abae704fb4cdba00a26baa58cb4443.png",
+          "type": 1
+        },
+        {
+          "titlename": "Shaun White Skateboarding",
+          "titleimage": "Shaun White Skateboarding",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c7b9d4c31eb9c2bed48346335c307187.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/61d06545a9b5a3c1a8993909f9ca65e5.png",
+          "type": 1
+        },
+        {
+          "titlename": "SSX",
+          "titleimage": "SSX",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8bfdf48ecf1a8f511d6446165b15451b.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/ac9409d10ea7b978d52b9e977ef787cc.png",
+          "type": 1
+        },
+        {
+          "titlename": "South Park",
+          "titleimage": "South Park Let's Go Tower Defense Play!",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e65e26a9a28ef7478d953cbec82be1b0.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/e6fb1ad00af2ae2b6f311b93065646b1.png",
+          "type": 1
+        },
+        {
+          "titlename": "South Park: Tenorman's Revenge",
+          "titleimage": "South Park: Tenorman's Revenge",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a22997b93b15692ee45f7a9fb6778c8d.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/e6fb1ad00af2ae2b6f311b93065646b1.png",
+          "type": 1
+        },
+        {
+          "titlename": "Who Wants To Be A Millionaire? Special Editions",
+          "titleimage": "Who Wants To Be A Millionaire? Special Editions",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eef1c1ad3d1c737b3c2a89ecd5d22916.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/172188c0dacb487075bdc0c9afd757b2.png",
+          "type": 1
+        },
+        {
+          "titlename": "Jeopardy!",
+          "titleimage": "Jeopardy!",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/3ff0d6192828e607934e37ddeab09c84.jpg",
           "type": 1
         }
       ]
